@@ -1,4 +1,5 @@
 # NG2 Finance
+Can produce dist files , but dist file not work in local file system, cause path is not set right like ist   <link rel="stylesheet" href="/css/main.css?1491027775205">
 
 [![Build Status](https://travis-ci.org/mpetkov/ng2-finance.svg?branch=master)](https://travis-ci.org/mpetkov/ng2-finance)
 [![Coverage Status](https://coveralls.io/repos/github/mpetkov/ng2-finance/badge.svg?branch=master)](https://coveralls.io/github/mpetkov/ng2-finance?branch=master)
